@@ -1,0 +1,58 @@
+body{
+	height: 100%;
+	margin:3%;
+	background-color: #84d7fc;
+}
+.container{
+	background-color: #84d7fc;
+	padding: 2%;
+}
+.figure{
+
+	min-width:100%;
+	min-height: 100%;
+}
+.center{
+	position: absolute;
+	transform: translate(-50%, -50%);
+	top: 50%;
+	left: 10%;
+}
+
+.f{
+	font-size: 400%;
+	font-weight: bold;
+
+}
+
+.nav{
+	background: darkcyan; 
+}
+.nav-link{
+color:#fff;
+}
+.nav-link:hover{
+	color:#fff;
+	background: sandybrown; 
+}
+#ft{
+	background-color: #18999f; 
+	padding: 3%; 
+	color:white;
+	
+}
+
+.image{
+margin: 1%;
+}
+.pic{
+	 width:100%;
+	  height:100%;
+}
+
+
+	
+	
+	
+
+
